@@ -1,7 +1,7 @@
 ### Topics to be covered:
 ---
 
-[Logo of React](https://reactjs.org/logo-og.png)
+![Logo of React](https://reactjs.org/logo-og.png)
 
 - Basics of React: 
   - Why React? 
@@ -26,11 +26,10 @@
 
 
 ## Getting Started...
----
 
 ### 1. Basics of React
-
 ---
+
 a. **What is React?**
 - React is a JavaScript library, for creating fast, interactive User Interface for web apps.
 
