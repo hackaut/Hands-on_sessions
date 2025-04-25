@@ -1,7 +1,7 @@
 ### Topics to be covered:
 ---
 
-![Logo of React](https://reactjs.org/logo-og.png)
+![Logo of React]("./public/react-svgrepo-com.svg");
 
 - Basics of React: 
   - Why React? 
