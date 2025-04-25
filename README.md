@@ -1,7 +1,7 @@
 ### Topics to be covered:
 ---
 
-![Logo of React]("./react-svgrepo-com.svg");
+![Logo of React](public/react-svgrepo-com.svg);
 
 - Basics of React: 
   - Why React? 
