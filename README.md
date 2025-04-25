@@ -44,7 +44,7 @@ c. **Installation**
 - React can be installed using **npm**. npm stands for Node Package Manager, it manages the packages in Node.js.
 - To install React, run the following command in your terminal: (And follow the instruction procedure.)
 ```bash
-npx install create-react-app@latest <your-app-name>
+npx create-react-app@latest <your-app-name>
 cd <your-app-name>
 npm start
 ``` 
